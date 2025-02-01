@@ -1,6 +1,8 @@
 # Sentiment Analysis on Call Center Audio Recordings
 This solution outlines an automated pipeline for analyzing call center audio recordings to assess sentiment and provide actionable insights. The workflow integrates multiple systems and APIs to process, analyze, and report on the sentiment of calls efficiently.
 
+![eKYC System](https://github.com/s-priyan/speech-expresssion-analysis/blob/main/IMG_20211005_134049.jpg)
+
 ## Workflow Overview:
 ### Audio Data Collection (MP4 Drop):
 Call center conversations are recorded and stored as MP4 files.
