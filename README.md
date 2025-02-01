@@ -6,11 +6,11 @@ This solution outlines an automated pipeline for analyzing call center audio rec
 ## Workflow Overview:
 ### Audio Data Collection (MP4 Drop):
 Call center conversations are recorded and stored as MP4 files.
-These recordings are automatically dropped into a designated folder for processing.
+These recordings are automatically dropped into a designated storage for processing.
 Corresponding call logs, including client and case IDs, are also logged for reference.
 
 ### Data Processing:
-The MP4 files are pulled from the storage folder into the sentiment analysis system.
+The MP4 files are pulled from the storage into the sentiment analysis system.
 This system likely includes audio preprocessing steps (e.g., speech-to-text conversion) and applies sentiment analysis models to determine the emotional tone of the conversations.
 Results Distribution:
 
