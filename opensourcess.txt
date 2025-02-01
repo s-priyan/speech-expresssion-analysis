@@ -1,0 +1,58 @@
+pyAudioAnalysis
+https://medium.com/behavioral-signals-ai/intro-to-audio-analysis-recognizing-sounds-using-machine-learning-20fd646a0ec5
+
+IBM-Watson
+https://stackoverflow.com/questions/61092036/speaker-label-diarization-does-not-return-in-watson-speech-to-text-api
+https://cloud.ibm.com/services/speech-to-text/crn%3Av1%3Abluemix%3Apublic%3Aspeech-to-text%3Aus-south%3Aa%2F46009126324f40ca916abe4c2e32c71e%3A24ac02e4-9660-4ee2-905c-95b2aa1b6b66%3A%3A?paneId=manage&new=true
+
+Google-API
+https://cloud.google.com/speech-to-text
+
+Resemblyzer
+https://medium.com/saarthi-ai/who-spoke-when-build-your-own-speaker-diarization-module-from-scratch-e7d725ee279
+
+MevonAI - Speech Emotion Recognition
+https://github.com/SuyashMore/MevonAI-Speech-Emotion-Recognition
+
+NVIDIA-NeMo
+https://github.com/NVIDIA/NeMo/tree/stable/examples/speaker_tasks/diarization
+https://colab.research.google.com/github/NVIDIA/NeMo/blob/stable/tutorials/speaker_tasks/ASR_with_SpeakerDiarization.ipynb
+https://colab.research.google.com/github/NVIDIA/NeMo/blob/stable/tutorials/speaker_tasks/Speaker_Diarization_Inference.ipynb
+https://docs.nvidia.com/deeplearning/nemo/user-guide/docs/en/stable/starthere/tutorials.html
+
+pyannote-audio
+https://github.com/pyannote/pyannote-audio/blob/master/notebooks/introduction_to_pyannote_audio_speaker_diarization_toolkit.ipynb
+
+speechbrain
+https://github.com/speechbrain/speechbrain/tree/develop/recipes/AMI/Diarization
+
+dataset
+https://www.uclass.psychol.ucl.ac.uk/Release2/Conversation/AudioOnly/wav/M_1011_15y9m_1.wav
+
+text sentiment analysis
+https://github.com/huggingface/transformers
+https://github.com/bentrevett/pytorch-sentiment-analysis
+https://github.com/cjhutto/vaderSentiment
+https://towardsdatascience.com/sentiment-analysis-in-10-minutes-with-bert-and-hugging-face-294e8a04b671
+
+
+Mel-frequency Cepstral Coefficients (MFCCs)
+https://haythamfayek.com/2016/04/21/speech-processing-for-machine-learning.html?undefined
+
+
+voice activity detection
+https://ssrlab.by/en/7980
+
+CTC
+https://towardsdatascience.com/intuitively-understanding-connectionist-temporal-classification-3797e43a86c
+
+conversational-sentiment-analysis(parameters)
+https://www.calabrio.com/wfo/customer-interaction-analytics/call-center-sentiment-analysis/
+
+
+AWS-Connect (for call recording) 
+https://blogs.perficient.com/2019/11/20/building-a-basic-inbound-chat-flow-in-amazon-connect/
+
+
+AWS-storage
+https://medium.com/workfall/how-to-create-vaults-in-aws-s3-glacier-to-store-and-archive-data-2517c54fd7bd
